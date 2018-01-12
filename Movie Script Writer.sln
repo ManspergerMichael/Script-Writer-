@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieScriptWriter", "NoteApp++\MovieScriptWriter.csproj", "{A24B732F-6C03-4666-9848-590474A8239B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24B732F-6C03-4666-9848-590474A8239B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24B732F-6C03-4666-9848-590474A8239B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24B732F-6C03-4666-9848-590474A8239B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24B732F-6C03-4666-9848-590474A8239B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B21D7ACF-0829-46CD-A244-D3160F93F853}
+	EndGlobalSection
+EndGlobal
